@@ -26,3 +26,9 @@ body {
     background-color: #2c90af;
     color: white;
 }
+
+.jumbotron{
+    background-image:url("https://images.unsplash.com/photo-1497633762265-9d179a990aa6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80");
+    background-size: cover;
+    margin-bottom:100px
+}
