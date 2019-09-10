@@ -77,6 +77,10 @@ p{
     text-align: center;
     }
 }
-h1{
+h2{
 
+    position: relative;
+    top: 15px;
+    left: 150px;
 }
+
