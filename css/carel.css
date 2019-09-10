@@ -1,4 +1,4 @@
-body {
+.body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -28,9 +28,14 @@ body {
 }
 
 .jumbotron{
-    background-image:url("https://gm1.ggpht.com/rlOkaE1L-_xvqX5RxO4G2O_cCcMnlSBBRBrLBFShJ1WNwUMdz6WqRj9NtstQxbUCkbVjbi5PHwr22T1S1t0vnLU2BHtgtalFBs-uoHb9tDI4R3jWNIltRbO0zVggFjFwgqdwIhofaDTipwsz0gfDR8PNPb3P9KqQrsfar0i8jy28julphwFVZpfKsuSs5I4RQ2rPkO5Jly3l8I3RgGtZNNHB98bz1giSBNio_Qh-FNiOGpLeZ6_DelvCwlsSm-Z608qdJ8wJP60x4typVg9lek59-daIUWhBfK2JXHNPGyWycmvSCADHNGw2SLRDnCQWhJxzBdZNl3zc_wXZU6PaDMcV9ouocetA2Pd6denXBkiP31MhVn_y_ZhbomFisLhZAU0RGsbjpZVD8cySozITK65LRrhqnycSKwhDpnwjEBUVpSQwiuel7SNsX3YNSfDUlW-qvTMQ4osIyZcAsf971nFufOZ_dWnpCjQCMeWwKG4w_ugFoYQQyp1AIWmZ9i6H9mHNcjedx0xfeMlmBk_Vx5pNE-B6i2tD2ppTb4CkeRbslEpCw0T76ZGeUSP0LdANufkIhZr1UvEQDjJeEUJWolfMQWU_Ln0zE6SkoD0tgPhRUut_uJLMgOfgyZ7sLFo-kH7rdkhfWg1aYmTDvwiALJptP2I2yHh7FOSBe_Y-xcn9DgRF5khwiU_YnaQ79vnDgcJwLbZJOdi2mvOwOyO_U6NRv-h_C8fXFL1bLzH-NH2lvhUCCTh7X7ef=s0-l75-ft-l75-ft");
+    background-image:url("https://adventuresincareerdevelopment.files.wordpress.com/2015/10/graduates.jpg");
     background-repeat: no-repeat;
     margin-bottom:100px;
+    size: cover;
+    background-size:cover;
+    background-color:#898888;
+    height:500px;
+    color:white;
 }
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -50,7 +55,7 @@ body {
     font-size: 18px;
 }
 
-button {
+.button {
     border: none;
     outline: 0;
     display: inline-block;
@@ -63,24 +68,20 @@ button {
     font-size: 18px;
 }
 
-a {
+.a {
     text-decoration: none;
     font-size: 22px;
     color: black;
 }
 
-button:hover, a:hover {
+.button:hover, a:hover {
     opacity: 0.7;
 }
 
-p{
+.p{
     text-align: center;
     }
-}
-h2{
 
-    position: relative;
-    top: 15px;
-    left: 150px;
+.bill{
+   padding-left: 900px;
 }
-
