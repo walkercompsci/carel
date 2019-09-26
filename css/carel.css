@@ -28,12 +28,11 @@
 }
 
 .jumbotron{
-    background-image:url("Carel.jpg") ;
+    background-color:#898888;
+    background-image:url("https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
     background-repeat: no-repeat;
     margin-bottom:100px;
-    size: cover;
     background-size:cover;
-    background-color:#898888;
     height:500px;
     color:white;
 }
@@ -94,8 +93,8 @@
 
 .top{
     font-family: 'Nanum Myeongjo', serif;
-    text-align: center;
-    font-size: 12em;
+    text-align: left;
+    font-size: 8em;
 }
 .navbar {
     overflow: hidden;
@@ -129,4 +128,35 @@
     padding: 16px;
     margin-bottom: 30px;
 }
+
+#two{
+    background-image:url("https://images.unsplash.com/photo-1533854775446-95c4609da544?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+    background-color:#898888;
+    background-repeat: no-repeat;
+    margin-bottom:100px;
+    background-size:cover;
+    height:500px;
+    color:white;
+}
+
+.long{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 2.5em;
+    color: black;
+}
+
+.color1{
+    background-color: powderblue;
+    padding-right:20px;
+}
+
+.color2{
+    background-color: #b3d7ff;
+}
+
+#what{
+    padding-right:20px
+}
+
 
