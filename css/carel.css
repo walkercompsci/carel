@@ -142,21 +142,16 @@
 .long{
     font-family: 'Raleway', sans-serif;
     text-align: center;
-    font-size: 2.5em;
+    font-size: 2em;
     color: black;
 }
 
-.color1{
-    background-color: powderblue;
-    padding-right:20px;
-}
 
-.color2{
-    background-color: #b3d7ff;
-}
-
-#what{
-    padding-right:20px
+.ethics{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 2.5em;
+    color: black;
 }
 
 
