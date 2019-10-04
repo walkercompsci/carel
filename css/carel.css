@@ -49,11 +49,6 @@
     width: 300px;
 }
 
-.title {
-    color: grey;
-    font-size: 18px;
-}
-
 .button {
     border: none;
     outline: 0;
@@ -64,6 +59,7 @@
     text-align: center;
     cursor: pointer;
     width: 100%;
+
     font-size: 18px;
 }
 
@@ -93,8 +89,8 @@
 
 .top{
     font-family: 'Nanum Myeongjo', serif;
-    text-align: left;
-    font-size: 8em;
+    text-align: center;
+    font-size: 6em;
 }
 .navbar {
     overflow: hidden;
@@ -142,7 +138,7 @@
 .long{
     font-family: 'Raleway', sans-serif;
     text-align: center;
-    font-size: 2em;
+    font-size: 1.8em;
     color: black;
 }
 
@@ -150,8 +146,53 @@
 .ethics{
     font-family: 'Raleway', sans-serif;
     text-align: center;
-    font-size: 2.5em;
+    font-size: 1em;
     color: black;
 }
+
+.offer{
+    text-align: center;
+    font-size: 1em;
+    color: black;
+}
+
+#three{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 12em;
+    color: black;
+}
+
+.top2{
+    font-family: 'Playfair+Display+SC', serif;
+    text-align: center;
+    color: rgb(255, 255, 255) !important;
+}
+
+#tron{
+    text-align: center;
+}
+
+.hr{
+    color: black;
+}
+
+#four{
+    background-image: url("https://gm1.ggpht.com/w1l0Y71_p7jp8S7fvdJOAuMEKkkX3BJC2fdvaq2Eu6z8NWjdF7ETnNRQkr3gk8qJeJywTUyvvXWrnaSrrXoZfG7rePFwCh-_6FKTM5CATNH8Ilye2uiRTugavrRslhiMj2Fgx1tp0K-RhbJ7UiQxOSpBrLfzUmShGz1ql743NjKO_wQmV4lCCTMu483NWvAYQi8uFQqmWWPwQW9PJeeldJ6RabzOJdTarrud7-AXJIZhzkk_JVS3xgwYDXetLhceA9BpqfeQfcsk82b3KUCmL7rO1mDRQXJK6etYYqKDhgM7fhqU6l7EA6942F02o6pWYwhkA0n0E3ceGwpgV5fUtW5PG8-mtgiCYtHzoTTf8ToPS3GV_I155we4k4TUnqkne68_wd4mlCgfoObzjWq3Tm3olE7cdS5IU8j2cLTrlt6AK6o4gAu145DpmDAqDSg8Uq3i7iQM7ow7s3ejTptNfbWwkAXYr7r5Q6xVqbAODW3v91JpwiW9Zpkno85mVHN4PChDvpXGCQBHP83o9Cc-S8fH-fIlH3yuz0rwUGvbmH-Y4TV2PphR3uzq-9KOQtDZaojxJIvSLBIOOryr34C_SonKccbPL7N0bMCW2iHL-DAnDe39W4RkR8PmxrT0csbPNTvuBylFyhB71vOCwNOkhwpH0ODDCcI-Q_yywZhbpjfcEI6PcjzPXBVH36Zn0h6fh6TGROGTtJjdxua0NVa3vRYa-v4VpviwYV7xFGuFL7DO-JGLmelz_P71o7Yqcg=s0-l75-ft-l75-ft");
+    background-color: #7abaff;
+}
+
+.billy{
+    image-orientation: flip;
+}
+
+#five{
+    font-size: 18em;
+}
+
+#six{
+    font-size: 5em;
+}
+
 
 
