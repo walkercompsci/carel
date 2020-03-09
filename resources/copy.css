@@ -1,0 +1,109 @@
+body{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x:hidden;
+    background-color: #F3B700;
+    background-image: linear-gradient(#faa300, #F3B700);
+}
+.jumbotron{
+  background-image: url(banner.png);
+  height:400px;
+  padding: 20px;
+  text-align: center;
+  vertical-align: center;
+}
+.display-1{
+  padding-top: 125px;
+  color: white;
+}
+.pgPadding{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+#topNav{
+  padding: 20px;
+  width: 98%;
+  margin-left: 1%;
+}
+.navbar-default{
+  background-color: #124E78;
+}
+#main{
+  margin-left: 1%;
+  width: 98%;
+  background-color: #eeeeee;
+}
+h1{
+  font-size: 3vw;
+  color: #124E78;
+}
+#image-break{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+#information{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    border-color: #124E78;
+  }
+  .title {
+    color: grey;
+    font-size: 1.5vw;
+  }
+  .special{
+    max-width: 500px;
+    margin: 40px;
+    box-shadow: 5px 20px 15px 0 rgba(0, 0, 0, 0.2);
+    
+  }
+  button {
+    border: none;
+    outline: 0;
+    padding: 8px;
+    color: white;
+    background-color: #124E78;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 1.5vw;
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 1.75vw;
+    color: white;
+  }
+  
+  button:hover, a:hover {
+    text-decoration: none;
+    opacity: 0.9;
+    color: white;
+  }
+
+  footer{
+      height: max-content;
+      margin-top: 80px;
+      background-color: #C17D00;
+  }
+  footer p{
+    padding-left:25%;
+    padding-right:25%;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    word-wrap: break-word;
+  }
+  .busiCard{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    border-color: #124E78;
+  }
